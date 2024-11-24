@@ -26,13 +26,13 @@ We accept donations during operating hours at the Friends of the Library, or
 donations can be made to the library at other times. We accept everything
 except magazines and encyclopedias. If you wish to donate money, please fill
 out a monetary donation form. You can pick up a form at the bookstore or
-download one [here](/assets/donation_form.pdf).
+download one [here](/content/assets/donation_form.pdf).
 
 ## Volunteering
 
 You must be at least 18 years old to volunteer. You may pick up an application
 at the Friends of the Library, or download one
-[here](/assets/volunteer_application.pdf). After completing the form, submit
+[here](/content/assets/volunteer_application.pdf). After completing the form, submit
 it to the Friends of the Library during operating hours.
 
 ## Contact
